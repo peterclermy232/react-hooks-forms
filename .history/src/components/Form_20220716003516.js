@@ -41,12 +41,11 @@ function Form() {
         id="newsletter"
         onChange={handleNewsletterChange}
         {/* checked instead of value */}
-      
-      //  checked={newsletter}
-      ///>
-     // <button type="submit">Submit</button>
-  //  </form>
-  //);
+        checked={newsletter}
+      />
+      <button type="submit">Submit</button>
+    </form>
+  );
 //}
 
 //export default Form;

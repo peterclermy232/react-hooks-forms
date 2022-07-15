@@ -43,10 +43,10 @@ function Form() {
         {/* checked instead of value */}
       
       //  checked={newsletter}
-      ///>
-     // <button type="submit">Submit</button>
-  //  </form>
-  //);
+      />
+      <button type="submit">Submit</button>
+    </form>
+  );
 //}
 
 //export default Form;

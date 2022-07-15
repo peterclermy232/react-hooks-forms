@@ -45,8 +45,8 @@ function Form() {
       //  checked={newsletter}
       ///>
      // <button type="submit">Submit</button>
-  //  </form>
-  //);
+    </form>
+  );
 //}
 
 //export default Form;
